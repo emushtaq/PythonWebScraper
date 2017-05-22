@@ -1,3 +1,3 @@
 import sys
 
-print "Default"
+print ("Default")
