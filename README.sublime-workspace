@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"list_fruits2"
+			],
+			[
+				"lis",
+				"list_fruits2"
+			],
+			[
+				"st",
+				"string_sample2"
+			],
+			[
+				"s",
+				"string_sample2"
+			],
+			[
+				"le",
+				"length_num"
+			],
+			[
+				"list",
+				"num_list"
+			],
+			[
+				"e",
+				"even_sum"
+			],
+			[
+				"sum",
+				"sum"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pcrp",
+		"selected_items":
+		[
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/srie/Documents/Subjects/VRS/Exercise/Sheet 3.txt",
+		"/Users/srie/Documents/Subjects/VRS/Exercise/Sheet 2.txt",
+		"/Users/srie/Documents/Code_Base/learnpython/sample.py",
+		"/Users/srie/Documents/Games/Dirt3-CompleteEdition_MACOSX-MONEY/CRACKFIX/Read me.txt",
+		"/Users/srie/Downloads/dbprak.search/dbprak/ws1/ex3/Main.java",
+		"/Users/srie/Documents/Code Base/euler/ex3.py",
+		"/Users/srie/Documents/Code Base/euler/ex2.py",
+		"/Users/srie/Documents/Code Base/euler/ex1.py",
+		"/Users/srie/Documents/Code Base/lstm_sensordata/lstm_sensor.py",
+		"/Users/srie/Documents/Code Base/LPTHW/Demo.py",
+		"/Users/srie/Documents/Work/SW_List.txt",
+		"/Users/srie/Documents/Work/Data/Credentials.txt",
+		"/Users/srie/.bash_history",
+		"/Volumes/GL/Mac Reset Backup/SW_List.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"len(num_list)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"length_num"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 91.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
