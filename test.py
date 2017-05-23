@@ -1,4 +1,5 @@
-import sys
+from urllib2 import urlopen
 
-print ("Default")
-print("testing 1234")
+#used to open a web page
+urlopen("https://www.yelp.com")
+
