@@ -1,3 +1,4 @@
 import sys
-	
-print "Default"
+
+print ("Default")
+print("testing 1234")
