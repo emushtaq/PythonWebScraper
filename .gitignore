@@ -1,2 +1,6 @@
 /env
-README.sublime-workspace
+Scrapper.sublime-project
+Scrapper.sublime-workspace
+.DS_Store
+/scraper
+
