@@ -15,11 +15,13 @@ soup=BeautifulSoup(html)
 #print (soup.prettify())
 table=soup.find('table',attrs={'class':'sortable'})
 
+datarows = []
 for row in table.findAll('tr'):
     for column in row.findAll('td'):
-    	print column.text
+    	#print column.text.encode('ascii', 'ignore')
+    	datarows.append(column.text.encode('ascii', 'ignore'))
 
-"""
-outfile=open("./column_data.csv","wb")
-writer=csv.writer()
-"""
+print datarows
+outfile = open("./data.csv", "wb")
+writer = csv.writer(outfile)
+writer.writerow(datarows)
