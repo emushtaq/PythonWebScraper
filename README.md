@@ -2,9 +2,9 @@
 A python wrapper to scrap instagram images and metadata with hastags
 
 ## Create a virtual environment with virtualenv and install the dependencies there
-	- `virtualenv <ENV_NAME>`
-	- `source ENV_NAME/bin/activate`
-	- `pip install -r requirements.txt`
+`virtualenv <ENV_NAME>`
+`source ENV_NAME/bin/activate`
+`pip install -r requirements.txt`
 
 ## To run the HTML scrapper: 
 `python htmlscraper.py`

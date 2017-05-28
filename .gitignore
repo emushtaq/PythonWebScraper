@@ -2,7 +2,7 @@ env
 Scrapper.sublime-project
 Scrapper.sublime-workspace
 .DS_Store
-/scraper
+scraper
 /data
 instagram-scraper.log
 data.csv
