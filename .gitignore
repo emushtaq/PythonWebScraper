@@ -1,8 +1,8 @@
-/env
+env
+Scrapper.sublime-project
+Scrapper.sublime-workspace
+.DS_Store
 /scraper
 /data
-README.sublime-workspace
-scrapper.sublime-workspace
-scrapper.sublime-project
 instagram-scraper.log
 data.csv
